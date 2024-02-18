@@ -24,6 +24,8 @@ public class Addition {
 		int k = sobj.nextInt();
 
 		int add = ad.addition(s, k);
-		System.out.println("Addition is>>" + add);
+		System.out.println(s);
+		System.out.println(k);
+		// System.out.println(add);
 	}
 }
